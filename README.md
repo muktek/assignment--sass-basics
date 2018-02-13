@@ -4,7 +4,7 @@
 
 1. Use HTML to create the entire structure and Sass to write styles.
 2. Use Sass variables to control colors in CSS
-3. 
+3. Take advantage of nesting in Sass using a wildcard –and &– to print CSS class names.
 
 ## Steps
 - Create a pen called `Instagram Login` and configure Sass as pre-processor.
