@@ -24,6 +24,8 @@ Inputs
   Border color: EFEFEF
   Fill color: FAFAFA
   height 36px
+Logo
+  dimensions: 175 x 51
 ```
 
 ![Instagram Log In Specs](instagram-sizes.png)
