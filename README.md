@@ -28,6 +28,7 @@ Inputs
   Fill color: FAFAFA
   height 36px
 Logo
+  dimensions: 175 x 51
   link: https://raw.githubusercontent.com/muktek/assignment--sass-basics/master/insta-logo.png
 ```
 
