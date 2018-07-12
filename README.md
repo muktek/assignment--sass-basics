@@ -1,13 +1,16 @@
 # Instagram Login
 
-## Indications
+## Instructions
 
 1. Use HTML to create the entire structure and Sass to write styles.
 2. Use Sass variables to control colors in CSS
 3. Take advantage of nesting in Sass using a wildcard –and &– to print CSS class names.
 
-## Steps
-- Create a pen called `Instagram Login` and configure Sass as pre-processor.
+## Setup
+
+- Create a [new pen](https://codepen.io/pen/) called `Instagram Login` 
+
+- Configure Sass as pre-processor in the 'Settings' panel (under CSS).
 
 ## Design Specs
 
@@ -26,6 +29,8 @@ Inputs
   height 36px
 Logo
   dimensions: 175 x 51
+Image Link
+  https://raw.githubusercontent.com/muktek/assignment--sass-basics/master/insta-logo.png
 ```
 
 ![Instagram Log In Specs](instagram-sizes.png)
