@@ -28,9 +28,7 @@ Inputs
   Fill color: FAFAFA
   height 36px
 Logo
-  dimensions: 175 x 51
-Image Link
-  https://raw.githubusercontent.com/muktek/assignment--sass-basics/master/insta-logo.png
+  link: https://raw.githubusercontent.com/muktek/assignment--sass-basics/master/insta-logo.png
 ```
 
 ![Instagram Log In Specs](instagram-sizes.png)
